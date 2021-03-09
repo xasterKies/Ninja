@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwindcss build src/styles.css -0 public/styles.css"
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
   },
   "author": "Samuel Tiokeng",
   "license": "ISC",
